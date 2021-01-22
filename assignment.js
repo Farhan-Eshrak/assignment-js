@@ -81,4 +81,3 @@ function megaFriend(array) {
     });
     return longestWord;
 }
-console.log()
